@@ -1,11 +1,41 @@
 {
   "type":"FeatureCollection",
   "features":[
-  {
-  "type":"Feature","properties":{"id":"marker-dc9553710850d2f3ac7587eb1a530653","title":"Welcome to Mapbox!","description":"","marker-size":"medium","marker-color":"#3887be","marker-symbol":"embassy"},"geometry":{"coordinates":[2.7202,48.402198],"type":"Point"},"id":"cicq6b0kn0001v0m4dj0p0vz8"}
-  ,
-  {
-  "type":"Feature","properties":{"title":"Sentier","description":"","stroke":"#1087bf","stroke-width":4,"stroke-opacity":1},"geometry":{"coordinates":[[4.780372,44.033562],[4.780286,44.033361],[4.780179,44.033223],[4.779991,44.033211],[4.779744,44.033161],[4.779578,44.033165],[4.779229,44.033049],[4.779063,44.032883],[4.77902,44.032806],[4.77872,44.032683],[4.778403,44.032667],[4.778124,44.03266],[4.777657,44.032582],[4.777577,44.032393]],"type":"LineString"},"id":"dbaa9ef08ba15dd50124ee619f1999cc"}
+  { "type":"Feature",
+    "properties": {"id":"marker-dc9553710850d2f3ac7587eb1a530653",
+                   "title":"Welcome to Mapbox!",
+                   "description":"",
+                   "marker-size":"medium",
+                   "marker-color":"#3887be",
+                   "marker-symbol":"embassy"},
+    "geometry": {"coordinates": [2.7202,48.402198],
+                 "type":"Point"},
+    "id":"cicq6b0kn0001v0m4dj0p0vz8"
+  },
+  { "type":"Feature",
+    "properties": {"title":"Sentier",
+    "description":"",
+    "stroke":"#1087bf",
+    "stroke-width":4,
+    "stroke-opacity":1},
+    "geometry": {"coordinates": [
+                 [4.780372,44.033562],
+                 [4.780286,44.033361],
+                 [4.780179,44.033223],
+                 [4.779991,44.033211],
+                 [4.779744,44.033161],
+                 [4.779578,44.033165],
+                 [4.779229,44.033049],
+                 [4.779063,44.032883],
+                 [4.77902,44.032806],
+                 [4.77872,44.032683],
+                 [4.778403,44.032667],
+                 [4.778124,44.03266],
+                 [4.777657,44.032582],
+                 [4.777577,44.032393]
+                 ],
+                 "type": "LineString"},
+    "id":"dbaa9ef08ba15dd50124ee619f1999cc"}
   ],
   "id":"nah-ko.143a1bdc"
 }
