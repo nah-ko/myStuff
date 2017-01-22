@@ -1,0 +1,25 @@
+_prefs: 
+  mapid: ''
+  saveCenter: true
+_properties: {}
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 6.921
+  - 45.2934
+  - 17
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 19
+minzoom: 0
+name: ''
+source: "mapbox:///nah-ko.n254dnpk"
+styles: 
+  - style.mss
+template: ''
