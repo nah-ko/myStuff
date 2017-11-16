@@ -155,4 +155,4 @@ chdir $HOME/Documents/GitSources/
 screen -t "Developpement dir" 0
 chdir $HOME/Documents/Dropbox/
 screen -t "My Dropbox" 1
-caption always '%{= dc}%{+b}%+LD %d %M %Y %c %{= dR}%{+b}[%H-Serveurs]%{-}%{= dc}%{+b} %-Lw%{= BW}%50>%n%f* %t%{-}%+Lw%<'
+caption always '%{= dc}%{+b}%+LD %d %M %Y %c %{= dR}%{+b}[Host-> %H]%{-}%{= dc}%{+b} %-Lw%{= BW}%50>%n%f* %t%{-}%+Lw%<'
